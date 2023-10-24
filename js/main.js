@@ -56,8 +56,7 @@ const urlstringP = [
     {id:'POLOPLUTO1',name:'POLOPLUTO',iconId:'1006382388254072832/YVFp5ggu',barId:'1006376537157877761/1528775263',isBar:true},
     {id:'Xingxing419',name:'星星队长',iconId:'1701894800528830464/bUqGEdU4',barId:'1006376537157877761/1528775263',isBar:false},
     {id:'LouisTheDeka',name:'Louis🐮',iconId:'1526352412206051328/Hsu_F8p4',barId:'1014062044713111552/1610085223',isBar:true},
-    {id:'cute_prince2023',name:'可愛小王子',iconId:'1696717371673821184/7XtaLEgI',barId:'1668490437726978048/1686992285',isBar:true},
-
+    {id:'bigcockboth18cm',name:'台北巨根不分',iconId:'1699066363548246016/wLGTWgl5',barId:'978101651037827073/1598933185',isBar:true},
 ]
 choiseP()
 function choiseP(){
