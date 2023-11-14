@@ -24,6 +24,9 @@ const urlstringM = [
     {id:'58627622',name:'vinceteaa',kind:'patreon'},
 ]
 const urlstringP = [
+    {id:'xce88999',name:'大叔（纯分享接推广）',iconId:'1684131864439853057/jprkCYgo',barId:'1684124163890634753/1690363339',isBar:true},
+    {id:'alvinapryansah',name:'怒放的生命',iconId:'1687432406800965632/VZit1A4U',barId:'578055479/1687336882',isBar:true},
+    {id:'henhuifan',name:'星星很会翻',iconId:'1662248321870884865/AbAp_YbF',barId:'1351924645247770625/1690881394',isBar:true},
     {id:'chaptar_F',name:'chapterF',iconId:'1679450223415033857/XjPFRBgw',barId:'1625533498865094658/1680368943',isBar:true},
     {id:'adoniself',name:'Adoniself',iconId:'1679915796200574978/Q1Wa8teb',barId:'1115964587512197120/1681376684',isBar:true},
     {id:'kreem_6',name:'野男人',iconId:'1689705274603618309/h_0Ml814',barId:'949658839/1691928302',isBar:true},
@@ -42,7 +45,7 @@ const urlstringP = [
     {id:'xiaoqiuyin666',name:'请不要叫我小蚯蚓',iconId:'1393772614900871171/z8Aj6q8Q',barId:'F2hiUpMbcAAmbXa?format=jpg&name=large',isBar:false},
     {id:'sudigege',name:'苏底哥哥',iconId:'1676345543705120768/sfjcYx8K',barId:'1633703535052472320/1678340899',isBar:true},
     {id:'Archy400',name:'Archy400',iconId:'1587119472531210243/qjk0qz6s',barId:'1582755563376504833/1687929333',isBar:true},
-    {id:'KuangKu57395139',name:'肉便犬育成訓練',iconId:'1205463349284073478/7ra7tkIF',barId:'1055506212551188481/1622741941',isBar:true},
+    {id:'KuangKu57395139',name:'肉便犬育成訓練',iconId:'1205463349284073478/7ra7tkIF',barId:'1055506212551188481/1696265113',isBar:true},
     {id:'Daniel88263261',name:'Daniel武汉',iconId:'1559571953182441472/_JUwLIyz',barId:'1055506212551188481/1622741941',isBar:true},
     {id:'Exposedxin',name:'Xin',iconId:'1536283110882410496/BaDqEa7m',barId:'497491010/1620318299',isBar:true},
     {id:'MuMuL422',name:'穆海L',iconId:'1474160196746244108/MRFCGFrQ',barId:'1473336990447792129/1647274136',isBar:true},
@@ -56,7 +59,8 @@ const urlstringP = [
     {id:'POLOPLUTO1',name:'POLOPLUTO',iconId:'1006382388254072832/YVFp5ggu',barId:'1006376537157877761/1528775263',isBar:true},
     {id:'Xingxing419',name:'星星队长',iconId:'1701894800528830464/bUqGEdU4',barId:'1006376537157877761/1528775263',isBar:false},
     {id:'LouisTheDeka',name:'Louis🐮',iconId:'1526352412206051328/Hsu_F8p4',barId:'1014062044713111552/1610085223',isBar:true},
-    {id:'bigcockboth18cm',name:'台北巨根不分',iconId:'1699066363548246016/wLGTWgl5',barId:'978101651037827073/1598933185',isBar:true},
+    {id:'bigcockboth18cm',name:'台北巨根不分',iconId:'1721615763491168256/bQcabSlr',barId:'978101651037827073/1598933185',isBar:true},
+
 ]
 choiseP()
 function choiseP(){
