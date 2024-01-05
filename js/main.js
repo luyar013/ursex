@@ -26,7 +26,6 @@ const urlstringM = [
 const urlstringP = [
     {id:'Lafite111',name:'麦当劳小奶狗',iconId:'1679784864391008258/MKTOx64v',barId:'1607522774645456896/1675434014',isBar:true},
     {id:'Martin_nying',name:'martin-ying',iconId:'1642335791417528320/IabYoJAM',barId:'1051472849607610368/1680398671',isBar:true},
-    {id:'xce88999',name:'大叔（纯分享接推广）',iconId:'1684131864439853057/jprkCYgo',barId:'1684124163890634753/1690363339',isBar:true},
     {id:'alvinapryansah',name:'怒放的生命',iconId:'1687432406800965632/VZit1A4U',barId:'578055479/1687336882',isBar:true},
     {id:'henhuifan',name:'星星很会翻',iconId:'1662248321870884865/AbAp_YbF',barId:'1351924645247770625/1690881394',isBar:true},
     {id:'chaptar_F',name:'chapterF',iconId:'1679450223415033857/XjPFRBgw',barId:'1625533498865094658/1680368943',isBar:true},
