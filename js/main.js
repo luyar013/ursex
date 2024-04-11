@@ -1,5 +1,10 @@
 
 const urlstringM = [
+    {id:'11903184',name:'冨樫正義',kind:'patreon'},
+    {id:'33134220',name:'YuyaOwl',kind:'fanbox'},
+    {id:'9253310',name:'陽史',kind:'fanbox'},
+    {id:'10339775',name:'Ruisselait',kind:'patreon'},
+    {id:'42110378',name:'uza',kind:'fanbox'},
     {id:'19570636',name:'なよし',kind:'fanbox'},
     {id:'66210',name:'村上',kind:'fanbox'},
     {id:'6668233',name:'司马ゆうじ',kind:'fanbox'},
@@ -24,6 +29,11 @@ const urlstringM = [
     {id:'58627622',name:'vinceteaa',kind:'patreon'},
 ]
 const urlstringP = [
+    {id:'Thetop1994',name:'xxxxz',iconId:'1776101570578706433/wV985gET',barId:'1731898421014040576/1705008562',isBar:true},
+    {id:'heipichoujiaoS',name:'黑皮臭脚weiS',iconId:'1743298527525273600/OepcWAQ9',barId:'1567351497893236738/1704469685',isBar:true},
+    {id:'cjbaba2025',name:'臭脚爸爸2025',iconId:'1771077157584048128/TXbWQVpL',barId:'1671778205127311360/1710425013',isBar:true},
+    {id:'hzericec',name:'航S',iconId:'1754048240281149440/ZfdC57uB',barId:'1615950829068095495/1674109204',isBar:true},
+    {id:'songlan_S',name:'体院小哥',iconId:'1466642002880069634/B89ger5F',barId:'1228011576701091840/1638510553',isBar:true},
     {id:'Lafite111',name:'麦当劳小奶狗',iconId:'1679784864391008258/MKTOx64v',barId:'1607522774645456896/1675434014',isBar:true},
     {id:'Martin_nying',name:'martin-ying',iconId:'1642335791417528320/IabYoJAM',barId:'1051472849607610368/1680398671',isBar:true},
     {id:'alvinapryansah',name:'怒放的生命',iconId:'1687432406800965632/VZit1A4U',barId:'578055479/1687336882',isBar:true},
@@ -94,10 +104,10 @@ function choiseM(){
 document.getElementsByClassName('box')[0].innerHTML = ``
 for(let i = 0; i < urlstringM.length; i++){
     document.getElementsByClassName('box')[0].innerHTML += `
-    <a href="https://kemono.party/${urlstringM[i].kind}/user/${urlstringM[i].id}" target="_blank">
-        <div style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.65)), url('https://img.kemono.party/banners/${urlstringM[i].kind}/${urlstringM[i].id}');background-position: center center;" class="bar">
+    <a href="https://kemono.su/${urlstringM[i].kind}/user/${urlstringM[i].id}" target="_blank">
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.65)), url('https://img.kemono.su/banners/${urlstringM[i].kind}/${urlstringM[i].id}');background-position: center center;" class="bar">
             <div class="icon">
-                <img src="https://img.kemono.party/icons/${urlstringM[i].kind}/${urlstringM[i].id}" class="iconIMG">
+                <img src="https://img.kemono.su/icons/${urlstringM[i].kind}/${urlstringM[i].id}" class="iconIMG">
             </div>
             <div>
                 <div class="name">${urlstringM[i].name}</div>
